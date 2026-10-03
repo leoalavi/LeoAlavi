@@ -109,20 +109,22 @@
 <tr>
 <td>
 
-**🧭 [MQ Navigation](https://github.com/leoalavi/MQ_Navigation)** &nbsp; ![Prototype](https://img.shields.io/badge/Prototype-a78bfa?style=flat-square)
+**🧭 [Campus Navigation](https://github.com/leoalavi/campus-navigation)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
 
-*Mobile-first campus wayfinding prototype for students, visitors, and Open Day attendees*
+*Independent iOS and Android campus wayfinding app for location discovery, walking navigation and connected campus experiences*
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a)
 
-- Helps users find buildings, services, transport, food, and parking on campus
-- Mobile-first interface built with Flutter and Dart
-- Designed as a companion project to the broader Syllabus Sync vision
-- Open-source and available for review and future development
+- Search buildings, services, food, parking and other campus locations
+- Switch between a custom campus map and Google Maps, with walking directions and user-location support
+- Indoor 360° panorama tours for supported buildings and locations
+- Built as a dedicated mobile companion within the Syllabus Sync ecosystem, with deep-link handoff from the main platform
+- Mobile-first experience with commute preferences and optional Open Day tools
+- Developed by Leo Alavi and Mohammad Raouf Abedini
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/MQ_Navigation)
+[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/campus-navigation)
 
 </div>
 
@@ -206,7 +208,7 @@
 |:---|:---|:---|:---:|
 | **Syllabus Sync** | Student experience platform · academic planning & campus support | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
 | **CIFAR-10 Pipeline** | Model comparison & interpretability tooling, deployed on HF Spaces | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-6366f1?style=flat-square) |
-| **MQ Navigation** | Campus wayfinding prototype for Flutter | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Prototype](https://img.shields.io/badge/●_Prototype-a78bfa?style=flat-square) |
+| **Campus Navigation** | Independent iOS & Android campus wayfinding app · Syllabus Sync ecosystem | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
 
 </div>
 
