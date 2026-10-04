@@ -34,13 +34,13 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │  🎓  Final-year IT student — Macquarie University, graduating Nov 2026   │
-│  💻  Graduate Software Engineer — full-stack, mobile & applied AI         │
+│  💻  Graduate Software Engineer — full-stack, mobile & applied AI        │
 │  🧩  Co-founder & Software Developer — Syllabus Sync                     │
 │  🌐  Full-stack: Next.js, TypeScript, PostgreSQL, Supabase               │
-│  📱  Mobile: Flutter, Dart, deep linking & cross-platform development     │
+│  📱  Mobile: Flutter, Dart, deep linking & cross-platform development    │
 │  🤖  Applied AI: LLM integrations, PyTorch & computer vision             │
-│  🧪  Testing: Vitest, Playwright, Flutter Testing & GitHub Actions        │
-│  ♿  Accessibility-focused, responsive & multilingual user experiences   │
+│  🧪  Testing: Vitest, Playwright, Flutter Testing & GitHub Actions       │
+│  ♿  Accessibility-focused, responsive & multilingual user experiences    │
 │  🏢  Recently completed a Software Internship at Calumino                │
 │  🤝  Open to graduate, junior & early-career software roles              │
 └──────────────────────────────────────────────────────────────────────────┘
