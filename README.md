@@ -4,16 +4,15 @@
 
 # Leo Alavi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Graduate+Software+Engineer+%E2%80%94+Full-Stack%2C+AI+%26+Data;Building+Syllabus+Sync+%E2%80%94+Student+Experience+Platform;Next.js+%7C+TypeScript+%7C+Python+%7C+PyTorch;CIFAR-10+Deep+Learning+Pipeline+%E2%80%94+Live+on+HF+Spaces;Final-Year+IT+Student+%E2%80%94+Macquarie+University%2C+Nov+2026;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=860&lines=Graduate+Software+Engineer+%E2%80%94+Full-Stack%2C+Mobile+%26+Applied+AI;Co-founder+%26+Developer+%E2%80%94+Syllabus+Sync;Next.js+%7C+TypeScript+%7C+Flutter+%7C+Dart+%7C+PyTorch;Astronomy+Open+Night+2026+%E2%80%94+Shipped+on+iOS+%26+web;Final-Year+IT+Student+%E2%80%94+Macquarie+University%2C+Nov+2026;Open+to+Graduate+%26+Junior+Software+Roles)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/leo-alavi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://www.leoalavi.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/leo-alavi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://leoalavi.dev)
 [![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app)
-[![CIFAR-10 Demo](https://img.shields.io/badge/CIFAR--10_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=030014)](https://cifar10.leoalavi.dev)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=6366f1)](mailto:leo@leoalavi.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=leoalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/leoalavi)
 
@@ -35,16 +34,34 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────┐
 │  🎓  Final-year IT student — Macquarie University, graduating Nov 2026   │
-│  🧩  Co-founder & lead builder — Syllabus Sync, student experience app   │
+│  💻  Graduate Software Engineer — full-stack, mobile & applied AI         │
+│  🧩  Co-founder & Software Developer — Syllabus Sync                     │
 │  🌐  Full-stack: Next.js, TypeScript, PostgreSQL, Supabase               │
-│  🤖  Applied ML: CNNs, transfer learning, Grad-CAM, Gradio demos         │
-│  📱  Mobile prototyping with Flutter — campus wayfinding & UX research   │
-│  🔐  Security-minded: auth/MFA, row-level security, rate limiting        │
-│  🌍  Multilingual UX, RTL layouts, WCAG-aligned accessibility            │
-│  🧪  CI/CD with GitHub Actions, Vitest, Playwright, deployed on Vercel   │
+│  📱  Mobile: Flutter, Dart, deep linking & cross-platform development     │
+│  🤖  Applied AI: LLM integrations, PyTorch & computer vision             │
+│  🧪  Testing: Vitest, Playwright, Flutter Testing & GitHub Actions        │
+│  ♿  Accessibility-focused, responsive & multilingual user experiences   │
+│  🏢  Recently completed a Software Internship at Calumino                │
 │  🤝  Open to graduate, junior & early-career software roles              │
 └──────────────────────────────────────────────────────────────────────────┘
 ```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,30:6366f1,60:22c55e,100:0f172a&height=2" width="100%"/>
+
+<br/>
+
+<!-- ══════════════════════════════ EXPERIENCE ══════════════════════════════ -->
+<div align="center">
+
+### `> experience --latest`
+
+</div>
+
+**🏢 CALUMINO — Software Intern** &nbsp; ![Completed](https://img.shields.io/badge/Completed-6366f1?style=flat-square) ![Jul 2026 – Sep 2026](https://img.shields.io/badge/Jul_2026_–_Sep_2026-0f172a?style=flat-square)
+
+Contributed to internal software tooling, Python-based workflows, computer vision review systems, debugging and testing within an established engineering codebase.
 
 <br/>
 
@@ -65,15 +82,16 @@
 
 **🚀 [Syllabus Sync](https://www.syllabus-sync.app)** &nbsp; ![Co-Founder](https://img.shields.io/badge/Co--Founder-22c55e?style=flat-square) ![Active](https://img.shields.io/badge/●_Active-6366f1?style=flat-square)
 
-*Full-stack student experience platform — academic planning, deadlines, and campus support for Macquarie University students*
+*Full-stack student experience platform for academic planning, deadlines, campus support and connected study tools, currently developed and validated around Macquarie University*
 
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-- Academic planning, deadline tracking, and campus support in one cohesive interface
-- Multilingual support with RTL layout and mobile-first responsive design
-- Secure authentication with MFA, row-level security, and rate limiting
-- Accessibility and internationalisation work aligned with WCAG principles
-- CI/CD pipeline via GitHub Actions with deployment on Vercel
+- Academic planning, deadline tracking and campus support in one responsive interface
+- Multilingual support with RTL layouts across 35 locales
+- Authentication with passkeys and TOTP-based MFA, PostgreSQL row-level security and rate limiting
+- Accessibility-focused front end with automated linting
+- Automated testing with Vitest and Playwright, plus CI/CD via GitHub Actions and deployment on Vercel
+- Part of a connected ecosystem: Sylla is a connected AI-assisted study layer, and Campus Navigation is the connected mobile wayfinding companion
 
 <div align="center">
 
@@ -86,11 +104,57 @@
 <tr>
 <td>
 
-**🤖 [CIFAR-10 Image Classification](https://github.com/leoalavi/CIFAR-10-Image-Classification)** &nbsp; ![87.48% Accuracy](https://img.shields.io/badge/87.48%25_Accuracy-f59e0b?style=flat-square)
+**🧭 [Campus Navigation](https://github.com/leoalavi/campus-navigation)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
 
-*Comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability and a live Gradio demo*
+*Independent iOS and Android campus wayfinding app for location discovery, walking navigation and connected campus experiences*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-f59e0b?style=flat-square&logo=huggingface&logoColor=0f172a) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) ![Deep Linking](https://img.shields.io/badge/Deep_Linking-0f172a?style=flat-square)
+
+- Search buildings, services, food, parking and other campus locations
+- Switch between a custom campus map and Google Maps, with walking directions and user-location support
+- Indoor 360° panorama tours for supported buildings and locations
+- Connected to the Syllabus Sync ecosystem through deep-link handoff
+- Commute preferences and optional Open Day tools, covered by Flutter unit and widget tests
+- Co-developed with Mohammad Raouf Abedini
+
+<div align="center">
+
+[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/campus-navigation)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌌 [Astronomy Open Night 2026](https://github.com/leoalavi/MQ-Astronomy-Open-Night-2026)** &nbsp; ![Shipped](https://img.shields.io/badge/Shipped-f59e0b?style=flat-square)
+
+*Flutter event navigation app developed for Macquarie University's Astronomy Open Night 2026, supporting venue discovery, event information and Google Maps walking directions — an independent student project, not an official university product*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Deep Linking](https://img.shields.io/badge/Deep_Linking-0f172a?style=flat-square)
+
+- Co-developed and launched across iOS and web
+- Supported real attendees during the live event
+- Built venue discovery and walking navigation workflows
+- Gathered real-world usability feedback during the event
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=ffffff)](https://apps.apple.com/au/app/astronomy-open-night-2026/id6808865067) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/MQ-Astronomy-Open-Night-2026)
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🤖 [CIFAR-10 Image Classification](https://github.com/leoalavi/CIFAR-10-Image-Classification)** &nbsp; ![Shipped](https://img.shields.io/badge/Shipped-6366f1?style=flat-square) ![87.48% Accuracy](https://img.shields.io/badge/87.48%25_Accuracy-f59e0b?style=flat-square)
+
+*Earlier applied-AI project comparing a custom CNN, MobileNetV2, and ResNet-18 with Grad-CAM interpretability and a Gradio demo*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-f59e0b?style=flat-square&logo=huggingface&logoColor=0f172a)
 
 - Evaluated multiple deep learning architectures on CIFAR-10 under controlled conditions
 - Applied data augmentation, cosine annealing, and progressive unfreezing for generalisation
@@ -101,30 +165,6 @@
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-f59e0b?style=for-the-badge&logo=huggingface&logoColor=030014)](https://cifar10.leoalavi.dev) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/CIFAR-10-Image-Classification)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🧭 [Campus Navigation](https://github.com/leoalavi/campus-navigation)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
-
-*Independent iOS and Android campus wayfinding app for location discovery, walking navigation and connected campus experiences*
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a)
-
-- Search buildings, services, food, parking and other campus locations
-- Switch between a custom campus map and Google Maps, with walking directions and user-location support
-- Indoor 360° panorama tours for supported buildings and locations
-- Built as a dedicated mobile companion within the Syllabus Sync ecosystem, with deep-link handoff from the main platform
-- Mobile-first experience with commute preferences and optional Open Day tools
-- Developed by Leo Alavi and Mohammad Raouf Abedini
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/campus-navigation)
 
 </div>
 
@@ -164,7 +204,7 @@
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com)
 [![Flutter](https://skillicons.dev/icons?i=flutter&theme=dark)](https://flutter.dev)
 
-**[ BACKEND & DATA ]**
+**[ BACKEND & DATABASES ]**
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://www.postgresql.org)
@@ -172,24 +212,26 @@
 &nbsp;
 [![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e)](https://restfulapi.net/)
 
-**[ APPLIED AI / ML ]**
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=f97316)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=for-the-badge&logo=jupyter&logoColor=f59e0b)](https://jupyter.org)
-[![Gradio](https://img.shields.io/badge/Gradio-0f172a?style=for-the-badge&logo=huggingface&logoColor=f59e0b)](https://www.gradio.app)
-[![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0f172a?style=for-the-badge&logoColor=ffffff)](https://arxiv.org/abs/1610.02391)
-
 **[ TESTING & DEVOPS ]**
 
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://github.com/features/actions)
 [![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)](https://vercel.com)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://www.docker.com)
 &nbsp;
 [![Vitest](https://img.shields.io/badge/Vitest-6366f1?style=for-the-badge&logo=vitest&logoColor=ffffff)](https://vitest.dev)
 [![Playwright](https://img.shields.io/badge/Playwright-22c55e?style=for-the-badge&logo=playwright&logoColor=ffffff)](https://playwright.dev)
-[![Flutter Test](https://img.shields.io/badge/Flutter_Test-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B)](https://docs.flutter.dev/testing)
+[![Flutter Testing](https://img.shields.io/badge/Flutter_Testing-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B)](https://docs.flutter.dev/testing)
+
+**[ APPLIED AI ]**
+
+[![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://ai-sdk.dev)
+[![LLM Integration](https://img.shields.io/badge/LLM_Integration-6366f1?style=for-the-badge&logoColor=ffffff)](https://ai-sdk.dev)
+[![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=f97316)](https://pytorch.org)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-0f172a?style=for-the-badge&logoColor=22c55e)](https://en.wikipedia.org/wiki/Computer_vision)
+<br/>
+[![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-0f172a?style=for-the-badge&logoColor=f59e0b)](https://en.wikipedia.org/wiki/Transfer_learning)
+[![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0f172a?style=for-the-badge&logoColor=6366f1)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0f172a?style=for-the-badge&logoColor=ffffff)](https://arxiv.org/abs/1610.02391)
 
 </div>
 
@@ -206,9 +248,10 @@
 
 | 🛠 Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
-| **Syllabus Sync** | Student experience platform · academic planning & campus support | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
-| **CIFAR-10 Pipeline** | Model comparison & interpretability tooling, deployed on HF Spaces | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-6366f1?style=flat-square) |
+| **Syllabus Sync** | Student experience platform · academic planning, deadlines & campus support | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
 | **Campus Navigation** | Independent iOS & Android campus wayfinding app · Syllabus Sync ecosystem | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
+| **Astronomy Open Night 2026** | Flutter event navigation app · live event deployment across iOS & web | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-f59e0b?style=flat-square) |
+| **CIFAR-10 Pipeline** | Model comparison & interpretability tooling · PyTorch | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-6366f1?style=flat-square) |
 
 </div>
 
@@ -227,7 +270,10 @@
 |:---|:---|:---|
 | **Information Technology (Final Year)** | Macquarie University | Nov 2026 |
 
-*Focus areas: full-stack web development, applied machine learning, security fundamentals (auth, MFA, RLS), and accessibility engineering.*
+**Majors:** Artificial Intelligence; Web and Mobile Application Development
+**WAM:** 75/100 (Distinction)
+
+*Focus areas: software engineering, full-stack development, mobile applications, databases, data structures and algorithms, and applied AI.*
 
 </div>
 
@@ -294,8 +340,8 @@
 > Status     : [●] ONLINE — open to graduate & early-career opportunities
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&labelColor=0f172a)](https://www.leoalavi.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/leo-alavi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=for-the-badge&labelColor=0f172a)](https://leoalavi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0f172a)](https://www.linkedin.com/in/leo-alavi)
 [![Email](https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&labelColor=0f172a)](mailto:leo@leoalavi.dev)
 
 </div>
