@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/leo-alavi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://leoalavi.dev)
-[![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app)
+[![Syllabus Sync](https://img.shields.io/badge/Syllabus_Sync-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://syllabus-sync.app)
 [![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=6366f1)](mailto:leo@leoalavi.dev)
 [![Profile Views](https://komarev.com/ghpvc/?username=leoalavi&color=6366f1&style=for-the-badge&label=VISITORS)](https://github.com/leoalavi)
 
@@ -80,7 +80,7 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 <tr>
 <td>
 
-**🚀 [Syllabus Sync](https://www.syllabus-sync.app)** &nbsp; ![Co-Founder](https://img.shields.io/badge/Co--Founder-22c55e?style=flat-square) ![Active](https://img.shields.io/badge/●_Active-6366f1?style=flat-square)
+**🚀 [Syllabus Sync](https://syllabus-sync.app)** &nbsp; ![Co-Founder](https://img.shields.io/badge/Co--Founder-22c55e?style=flat-square) ![Active](https://img.shields.io/badge/●_Active-6366f1?style=flat-square)
 
 *Full-stack student experience platform for academic planning, deadlines, campus support and connected study tools, currently developed and validated around Macquarie University*
 
@@ -91,11 +91,13 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 - Authentication with passkeys and TOTP-based MFA, PostgreSQL row-level security and rate limiting
 - Accessibility-focused front end with automated linting
 - Automated testing with Vitest and Playwright, plus CI/CD via GitHub Actions and deployment on Vercel
-- Part of a connected ecosystem: Sylla is a connected AI-assisted study layer, and Campus Navigation is the connected mobile wayfinding companion
+- Part of a connected ecosystem: [Sylla](https://sylla.syllabus-sync.app) is a connected AI-assisted study layer, and [Campus Navigation](https://github.com/leoalavi/Campus-Navigation) is the connected mobile wayfinding companion
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.syllabus-sync.app) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/syllabus-sync)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://syllabus-sync.app) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/syllabus-sync)
+
+[![Sylla Live](https://img.shields.io/badge/Sylla_Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://sylla.syllabus-sync.app) &nbsp; [![Sylla Repository](https://img.shields.io/badge/Sylla_Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/Sylla)
 
 </div>
 
@@ -104,7 +106,7 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 <tr>
 <td>
 
-**🧭 [Campus Navigation](https://github.com/leoalavi/campus-navigation)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
+**🧭 [Campus Navigation](https://github.com/leoalavi/Campus-Navigation)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
 
 *Independent iOS and Android campus wayfinding app for location discovery, walking navigation and connected campus experiences*
 
@@ -119,7 +121,7 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 
 <div align="center">
 
-[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/campus-navigation)
+[![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/Campus-Navigation)
 
 </div>
 
@@ -141,7 +143,7 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 
 <div align="center">
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=ffffff)](https://apps.apple.com/au/app/astronomy-open-night-2026/id6808865067) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/MQ-Astronomy-Open-Night-2026)
+[![Live](https://img.shields.io/badge/Live-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=030014)](https://aon.syllabus-sync.app) &nbsp; [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=ffffff)](https://apps.apple.com/au/app/astronomy-open-night-2026/id6808865067) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/MQ-Astronomy-Open-Night-2026)
 
 </div>
 
