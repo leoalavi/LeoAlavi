@@ -97,7 +97,27 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://syllabus-sync.app) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/syllabus-sync)
 
-[![Sylla Live](https://img.shields.io/badge/Sylla_Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://sylla.syllabus-sync.app) &nbsp; [![Sylla Repository](https://img.shields.io/badge/Sylla_Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/Sylla)
+</div>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🤖 [Sylla — AI-Assisted Study Platform](https://github.com/leoalavi/Sylla)** &nbsp; ![Active Development](https://img.shields.io/badge/Active_Development-22c55e?style=flat-square)
+
+*AI-assisted study platform built with Next.js, TypeScript, Supabase and the Vercel AI SDK, with streaming responses, local conversation history and early structured study workflows*
+
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+- Built streaming AI chat with conversation history persisted in the browser
+- Developed early study workflows for summaries, explanations, flashcards, quizzes and study plans; these currently run on a mock provider while live model integration is in progress
+- Designed Sylla as a connected AI-assisted study layer within the broader Syllabus Sync ecosystem
+- Currently under active development, with additional study features planned
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://sylla.syllabus-sync.app) &nbsp; [![Repository](https://img.shields.io/badge/Repository-6366f1?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/leoalavi/Sylla)
 
 </div>
 
@@ -251,6 +271,7 @@ Contributed to internal software tooling, Python-based workflows, computer visio
 | 🛠 Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
 | **Syllabus Sync** | Student experience platform · academic planning, deadlines & campus support | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=0f172a) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
+| **Sylla** | AI-assisted study platform · streaming chat & study workflows | ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
 | **Campus Navigation** | Independent iOS & Android campus wayfinding app · Syllabus Sync ecosystem | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | ![Active](https://img.shields.io/badge/●_Active-22c55e?style=flat-square) |
 | **Astronomy Open Night 2026** | Flutter event navigation app · live event deployment across iOS & web | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-f59e0b?style=flat-square) |
 | **CIFAR-10 Pipeline** | Model comparison & interpretability tooling · PyTorch | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Shipped](https://img.shields.io/badge/●_Shipped-6366f1?style=flat-square) |
